@@ -1,35 +1,101 @@
-# Hey there, I'm Mohamad Anzar Pangcoga 👨‍💼
-### Full-Stack Web Developer & UI/UX Designer
+<div align="center">
 
-> "Life doesn't hand you a finished product; it hands you raw components and a blank page. The rest is up to your daily discipline, your patience, and your willingness to keep building when things get heavy. Grind on."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,33:FFD93D,66:6BCB77,100:4D96FF&height=220&section=header&text=Hey,%20I'm%20Anzar%20Pangcoga&fontSize=36&fontColor=fff&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=16&descColor=ffffff&fontAlignX=50" />
+
+</div>
+
+---
+
+### ✦ About Me
+ 
+</div>
+Hey there, I'm Mohamad Anzar Pangcoga 👨‍💼
+
+Full-Stack Web Developer & UI/UX Designer
+ 
+> *"You can't code a perfect life without experiencing a few system crashes along the way. True strength isn't about avoiding the setbacks; it's about having the grit to restart, rebuild, and keep moving."*
+ 
+- 🌐 Based in the **Philippines** 🇵🇭
+- 🎓 Pursuing a **Bachelor of Science in Information Technology (BSIT)**
+- ⏳ **18 Years Old** — Dedicated to mastering code logic and visual aesthetics
+- 💡 Passions: **Web Developing, Logical/Technical Problem Solving, and UI/UX Designing**
+- 💼 Status: **Open for Commissions & Freelance Projects**
+---
+ 
+<div align="center">
+ 
+### 🛠️ Tech Stack
+ 
+<h3>Frontend</h3>
+ 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" title="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" title="React" />
+</p>
+<h3>Backend</h3>
+ 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" title="Express" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" title="PHP" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" title="MySQL" />
+</p>
+<h3>Design & Dev Tools</h3>
+ 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" title="Figma" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" title="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" title="VS Code" />
+</p>
+</div>
+
+
+### 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anzzy1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzzy1&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
 
 ---
 
-### 🧠 About Me
-* 🎓 Pursuing a **Bachelor of Science in Information Technology (BSIT)**
-* ⏳ **18 Years Old** — Dedicated to mastering code logic and visual aesthetics
-* 💡 Passions: ** Web Developing, Logical/Technical Problem Solving, and UI/UX Designing**
-* 💼 Status: **Open for Commissions & Freelance Projects**
-* 🌐 Based in the **Philippines 🇵🇭**
+<div align="center">
 
-# 💻 Tech Stack:
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🔥 Streak
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Anzzy1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Anzzy1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anzzy1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&border_radius=8)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anzzy1&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anzzy1&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Anzzy1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD93D?style=for-the-badge&logo=vercel&logoColor=black)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-6BCB77?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=100&section=footer" />
+
+</div>
