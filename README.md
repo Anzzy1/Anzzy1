@@ -1,6 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:6366F1&height=210&section=header&text=Anzar%20Pangcoga&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=17&descAlignY=57&animation=fadeIn" width="100%" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <style>
+      .t { font-family: 'Segoe UI', Inter, Helvetica, Arial, sans-serif; text-anchor: middle; animation: fade 1.2s ease-out both; }
+      .s { animation-delay: .3s; }
+      .w { animation: drift 8s ease-in-out infinite alternate; }
+      @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-60px); } }
+    </style>
+  </defs>
+  <path class="w" fill="#818CF8" opacity="0.35" d="M0 0H1260V215C1110 255 960 250 810 215C660 180 510 180 360 215C220 248 100 250 0 225Z"/>
+  <path fill="url(#bg)" d="M0 0H1200V200C1050 245 900 245 750 205C600 165 450 165 300 205C180 237 80 240 0 215Z"/>
+  <text class="t" x="600" y="110" font-size="56" font-weight="700" fill="#FFFFFF">Anzar Pangcoga</text>
+  <text class="t s" x="600" y="155" font-size="21" font-weight="500" fill="#C7D2FE" letter-spacing="1">Full-Stack &amp; AI Developer  •  UI/UX Designer</text>
+</svg>
 
 <a href="https://anzyydev.com">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=560&lines=I+build+websites%2C+web+systems+%26+apps;AI+chatbots+that+actually+understand+your+business;Open+for+freelance+projects+wo>
