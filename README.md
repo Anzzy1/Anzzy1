@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Anzar Pangcoga — Full-Stack & AI Developer" />
+<img src="./header.svg" width="100%" alt="Anzar Pangcoga — Full-Stack & AI Developer" />
 
 <a href="https://anzyydev.com">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=560&lines=I+build+websites%2C+web+systems+%26+apps;AI+chatbots+that+actually+understand+your+business;Open+for+freelance+projects+worldwide" alt="Typing intro" />
@@ -180,4 +180,4 @@ Have a project in mind? I reply within **24 hours**.
 
 </div>
 
-<img src="./assets/footer.svg" width="100%" />
+<img src="./footer.svg" width="100%" />
