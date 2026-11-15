@@ -18,7 +18,7 @@
 
 <h2>👋 Hi, I'm Anzar</h2>
 
-I'm an **18-year-old freelance Full-Stack & AI Developer** from the Philippines who builds websites, web systems, AI integrations, and apps that help businesses work smarter. I take projects from the first idea all the way to launch, focusing on clean code, thoughtful design, and real results.
+I'm an **19-year-old freelance Full-Stack & AI Developer** from the Philippines who builds websites, web systems, AI integrations, and apps that help businesses work smarter. I take projects from the first idea all the way to launch, focusing on clean code, thoughtful design, and real results.
 
 I build because I love inventing things. I'm also hooked on logic, from **math** and **chess** to **Rubik's cubes**, and code is where all of that comes together.
 
